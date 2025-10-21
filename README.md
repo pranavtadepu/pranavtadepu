@@ -1,6 +1,6 @@
 ## 🌿 Hi there!
 
-I’m **Pranav Tadepu**, a passionate and results-driven **Computer Software Engineering graduate student at San José State University**.  
+I’m **Pranav**, a passionate and results-driven **Computer Software Engineering graduate student at San José State University**.  
 I specialize in **distributed systems, backend engineering, and cloud-native development**, and I love building scalable, reliable systems — inspired by the balance of nature 🌲.
 
 Recently, I completed my **Software Development Engineer Internship at Amazon Web Services (AWS)**, where I contributed to **CloudTrail billing and analytics systems**.  
